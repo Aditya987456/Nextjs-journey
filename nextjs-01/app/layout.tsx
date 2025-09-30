@@ -27,8 +27,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="p-4 border-b">
-          Medium
+        <div className="p-4 border-b flex justify-center">
+          Second Brain application
         </div>
         {children}
       </body>

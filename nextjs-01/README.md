@@ -1,5 +1,13 @@
 
 ## Own Notes 
+
+### Problem in react-
+- waterfalling problem
+- SEO is not optimized
+
+
+
+
  ### layout in nextjs-
  
 
